@@ -1,3 +1,5 @@
 # PROYECTO-PUCP
 
-Hacer una POC de segmentación binaria usando modelos de aprendizaje profundo, para eso se usará distintas imágenes satelitales de la plataforma kaggle (www.kaggle.com). Esta POC de modelos se usará para cuando se tenga las imágenes satelitales para esta investigación y se irá probando uno por uno viendo su performance
+El siguiente proyecto esta estructurado con los siguientes carpetas: notebooks, data.
+En la carpeta "notebooks", encontramos dos archivos IPYNB, en la cual cada archivo es del modelo de UNET y DEEPLAB.
+En la carpeta "data", encontramos un archivo TXT, en la cual hay un link de la data que se esta usando.
